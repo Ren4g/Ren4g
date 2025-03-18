@@ -1,7 +1,5 @@
 ## Greetings, pal👋
 
-<!--
-**Ren4g/Ren4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on a power that teaches entrepreneurs use 'evil' for good
 - 🌱 I’m currently learning a sea of things, little by little
@@ -11,4 +9,3 @@
 - 📫 How to reach me: nguyenhoangkhang312@gmail.com, carrier pigeons (optional), feel free to talk
 - 😄 Pronouns: ... uhm ... *shy*
 - ⚡ Fun fact: No number before 1,000 contains the letter A.
--->
